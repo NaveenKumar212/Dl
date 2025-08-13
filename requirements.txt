@@ -4,7 +4,7 @@ langchain==0.1.0
 langchain-community==0.0.13
 openai==1.10.0
 python-docx==1.0.1
-pandas==2.1.4
+pandas==2.2.3
 pytesseract==0.3.10
 Pillow==10.2.0
 python-dotenv==1.0.0
@@ -15,4 +15,5 @@ faiss-cpu==1.7.4
 # huggingface-hub==0.14.1
 
 # uncomment to use instructor embeddings
+
 # InstructorEmbedding==1.0.1
