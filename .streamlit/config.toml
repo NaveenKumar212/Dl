@@ -1,0 +1,41 @@
+[server]
+runOnSave = true
+
+[global]
+disableWatchdogWarning = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#F63366"
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#262730"
+textColor = "#FAFAFA"
+font = "sans serif"
+
+[logger]
+level = "info"
+
+[runner]
+magicEnabled = true
+fastReruns = false
+
+[deprecation]
+showPydeckJsonDeprecation = false
+showImageElementsDeprecation = false
+showfileUploaderEncoding = false
+showFullScreen = false
+showSpinner = false
+showTimeDeltaDeprecation = false
+
+[server]
+headless = false
+port = 8501
+
+[python]
+version = "3.12"
