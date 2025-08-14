@@ -1,0 +1,4 @@
+[server]
+# Set the Python version to use for the app
+# You can choose a version like 3.10 or 3.11 for better compatibility.
+pythonVersion = "3.10"
